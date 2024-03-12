@@ -1,0 +1,34 @@
+.nav{
+    background-color: rgba(2, 2, 118, 0.823);
+    list-style: none;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    font-weight: 500;
+    font-size: x-large;
+
+    a{
+        text-decoration: none;
+        color: white;
+    }
+}
+
+.nav:hover{
+    cursor: pointer;
+}
+
+#home:hover{
+    color: wheat;
+}
+#about:hover{
+    color: wheat;
+}
+#ser:hover{
+    color: wheat;
+}
+#news:hover{
+    color: wheat;
+}
+#contact:hover{
+    color: wheat;
+}

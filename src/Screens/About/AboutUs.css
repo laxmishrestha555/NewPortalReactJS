@@ -1,0 +1,38 @@
+.aboutwrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background-color: rgb(201, 234, 234); 
+  }
+  
+  .aboutbox {
+    max-width: 800px; 
+    padding: 20px;
+    background-color:rgba(2, 2, 118, 0.823); 
+   
+  }
+  
+  .about,
+  .misson,
+  .team,
+  .contact {
+    margin: 20px;
+  }
+  
+  .about h1,
+  .misson h2,
+  .team h2,
+  .contact h2 {
+    color:bisque;
+  }
+  
+  .about p,
+  .misson p,
+  .team p,
+  .contact p {
+    color: white;;
+  }
+  
+  /* Add any additional styling as needed */
+  

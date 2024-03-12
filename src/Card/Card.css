@@ -1,0 +1,31 @@
+.card{
+    background-color: rgba(2, 2, 118, 0.823);;
+    color: white;
+    height: 90vh;
+    width: 60vh;
+    border: 2px solid black;
+    margin: 7px;
+    padding: 10px;
+    border-radius: 5px;
+    transform: transform 0.4s;
+
+    
+
+    img{
+        height: 200px;
+        width: 60vh;
+        border-radius: 5px;
+    }
+}
+
+.card:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+.container{
+    margin: 7px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
